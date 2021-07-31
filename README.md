@@ -1,1 +1,1 @@
-# java database aplikasi todolist, thanks berat lord eko
+# java database aplikasi todolist
