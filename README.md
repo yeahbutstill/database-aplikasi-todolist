@@ -1,1 +1,1 @@
-# java database aplikasi todolist
+# aplikasi todolist - java database mysql
